@@ -7,3 +7,6 @@
   <a href="#"><img src="https://img.shields.io/badge/arma 3-v1.60-000000.svg?style=flat-square" alt="Arma 3 Version"></a>
   <a href="https://gitter.im/havok962/Eternal-Altis"><img src="https://img.shields.io/badge/chat-on gitter-blue.svg?style=flat-square" alt="Chat on Gitter"></a>
 </p>
+
+
+[![Join the chat at https://gitter.im/havok962/Eternal-Altis](https://badges.gitter.im/havok962/Eternal-Altis.svg)](https://gitter.im/havok962/Eternal-Altis?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
